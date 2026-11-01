@@ -64,3 +64,7 @@ Text, Markdown, CSV and HTML are decoded as UTF-8. MarkItDown converts PDF, DOCX
 ## Validation and limitations
 
 Automated tests cover analytics, validation, date comparisons, zero denominators, QA rules, retrieval, export, project isolation, data migration, SQLite persistence and text conversion. Reflex compilation and local server startup were checked. A Chromium browser smoke test was run for the main app workflow; see `TESTING.md` for exact coverage and limitations. Cross-platform installation and production deployment have not been fully end-to-end tested.
+
+## License
+
+MIT. See [LICENSE](LICENSE).

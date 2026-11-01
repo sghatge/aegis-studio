@@ -19,7 +19,7 @@ git push -u origin main
 
 Replace `YOUR_USERNAME` with your GitHub username. Authenticate with GitHub as prompted. If Git asks for your name and email, configure them with `git config --global user.name` and `git config --global user.email` first. Use a GitHub no-reply address if you want to keep your email private.
 
-The `.gitignore` excludes local databases, generated Reflex files, uploaded files, environment files and caches. Before pushing, inspect `git status` and the files to ensure no private data, API keys or sensitive material are included. No software license is included; decide on a license before inviting reuse.
+The `.gitignore` excludes local databases, generated Reflex files, uploaded files, environment files and caches. Before pushing, inspect `git status` and the files to ensure no private data, API keys or sensitive material are included. The project is released under the MIT License (see `LICENSE`).
 
 ## Publish the interactive showcase with GitHub Pages
 
