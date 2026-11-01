@@ -1,0 +1,16 @@
+.states
+.web
+assets/external/
+*.py[cod]
+*.db
+.web/
+.reflex/
+workspace/
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+.env
+
+.states/
+uploaded_files/

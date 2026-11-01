@@ -1,0 +1,11 @@
+[project]
+name = "aegis-studio"
+version = "0.7.0"
+description = "Local-first CRM analytics and campaign operations portfolio project"
+requires-python = ">=3.10,<3.13"
+dependencies = ["reflex>=0.6.8,<0.9", "greenlet>=3", "pandas>=2.0,<3", "openpyxl>=3.1,<4", "markitdown[all]>=0.1,<0.2"]
+[project.optional-dependencies]
+dev = ["pytest>=8,<9", "reportlab>=4,<5", "python-docx>=1,<2", "python-pptx>=1,<2", "playwright>=1.48,<2"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

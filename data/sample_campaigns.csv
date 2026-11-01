@@ -1,0 +1,7 @@
+campaign,date,market,type,sent,delivered,opens,clicks,conversions,bounces
+Welcome A,2024-01-15,North,Triggered,10000,9800,4200,680,100,200
+Spring A,2024-03-20,South,Flagship,12000,11640,4100,590,78,360
+Summer A,2024-08-03,Coast,Ad-Hoc,8000,7840,2600,320,40,160
+Welcome B,2025-01-15,North,Triggered,11000,10890,4950,810,133,110
+Spring B,2025-03-20,South,Flagship,13000,12220,4200,570,70,780
+Summer B,2025-08-03,Coast,Ad-Hoc,8500,7990,3000,420,54,510
